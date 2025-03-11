@@ -34,7 +34,7 @@ def Total():
     total1 = 100 * a1
     total2 = 80 * a2
     total3 = 150 * a3
-    total4 = 300 * a4
+    total4 = 150 * a4
     total5 = 200 * a5
     total6 = 180 * a6
     total7 = 200 * a6
@@ -78,7 +78,7 @@ Label(frame_menu, text="Cardápio",font=("Gabriola", 40, "bold"), fg="black", bg
 Label(frame_menu, font=("MV Boli",  15,'bold'), text="Batatas fritas......100", fg="black", bg="lightgreen").place(x=10, y=80)
 Label(frame_menu, font=("MV Boli",  15,'bold'), text="Hamburguer simples..80", fg="black", bg="lightgreen").place(x=10, y=110)
 Label(frame_menu, font=("MV Boli",  15,'bold'), text="Hamburguer duplo...150", fg="black", bg="lightgreen").place(x=10, y=140)
-Label(frame_menu, font=("MV Boli",  15,'bold'), text="Mini bolo............300 ", fg="black", bg="lightgreen").place(x=10, y=170)
+Label(frame_menu, font=("MV Boli",  15,'bold'), text="Mini bolo............150 ", fg="black", bg="lightgreen").place(x=10, y=170)
 Label(frame_menu, font=("MV Boli",  15,'bold'), text="Guisado de vaca......200", fg="black", bg="lightgreen").place(x=10, y=200)
 Label(frame_menu, font=("MV Boli",  15,'bold'), text="Feijoada...............180", fg="black", bg="lightgreen").place(x=10, y=230)
 Label(frame_menu, font=("MV Boli",  15,'bold'), text="Fígado................200", fg="black", bg="lightgreen").place(x=10, y=260)
